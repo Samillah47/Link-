@@ -1,0 +1,6 @@
+{
+  "name": "LINK — AI Financial OS",
+  "description": "AI-powered financial operating system connecting MoMo, eCash, and Bank with multilingual intent payments and Aura Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
